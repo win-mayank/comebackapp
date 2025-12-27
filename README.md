@@ -13,7 +13,7 @@ Comeback is a focused self-improvement and discipline platform designed to help 
 This repository is the public distribution point for:
 
 - Android app builds (`.apk`)
-- Desktop builds (if applicable)
+- Web version
 - Version history and changelogs
 
 ---
