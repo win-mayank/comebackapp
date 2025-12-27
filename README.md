@@ -60,7 +60,7 @@ All rights reserved.
 
 If you experience any issues or have feedback, please contact:
 
-support@yourdomain.com (replace with your email)
+jainnmayank.in@gmail.com
 
 ---
 
